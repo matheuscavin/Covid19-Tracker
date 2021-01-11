@@ -1,0 +1,40 @@
+body {
+    background: rgb(235,235,235);
+    font-family: sans-serif;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.image{
+    width: 370px;
+    margin-top: 50px;
+}
+.title{
+    width: 100%;
+    padding: 80px 0;
+    background: #2B1D40;
+    color: #fff;
+    text-align: center;
+    font-size: 35px;
+}
+@media (max-width: 770px) {
+    .container{
+        margin: 0 10%;
+    }
+    .image{
+        width: 100%;
+    }
+    .title{
+        width: 100%;
+        padding: 50px 0;
+        background: #222;
+        color: #fff;
+        text-align: center;
+        font-size: 30px;
+    }
+}
