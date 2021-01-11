@@ -4,6 +4,7 @@ This is Covid 19 tracker application builded with React. It's also uses Charts.j
 
 ## Materials/References
 Video - https://www.youtube.com/watch?v=khJlrj3Y6Ls&t
+
 API: https://covid19.mathdro.id/api
 
 ## Aplication Page
